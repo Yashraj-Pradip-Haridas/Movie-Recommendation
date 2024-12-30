@@ -69,7 +69,7 @@ This project is a Movie Recommendation System that suggests movies to users base
 
 Ensure that the following Python packages are installed:
 
-- Flask
+- Streamlit
 - pandas
 - scikit-learn
 - numpy
